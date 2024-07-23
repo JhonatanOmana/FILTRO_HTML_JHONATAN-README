@@ -1,0 +1,137 @@
+.contenedor{
+    width: 100vw;
+    height: 48.5vw;
+    background-color: rgb(66, 59, 59);
+}
+
+.seccionIzquierda{
+    position: absolute;
+    width: 20vw;
+    height: 48.5vw;
+    background-color: wheat;
+    border: 1px solid black;
+}
+
+
+.campusShop{
+    position: absolute;
+    top: 1.5vw;
+    font-size: 2vw;
+
+}
+
+.todos{
+    position: absolute;
+    font-size: 2vw;
+}
+
+.estrella1{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 10vw;
+    left: 3.5vw;
+}
+
+.estrella2{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 13.5vw;
+    left: 3.5vw;
+}
+
+.estrella3{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 17vw;
+    left: 3.5vw;
+}
+
+.estrella4{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 20.5vw;
+    left: 3.5vw;
+}
+
+.estrella5{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 27.5vw;
+    left: 3.5vw;
+}
+
+.textoMenu1{
+    position: absolute;
+    font-size: 1vw;
+    top: 9.4vw;
+    left: 6vw;
+}
+
+.textoMenu2{
+    position: absolute;
+    font-size: 1vw;
+    top: 12.9vw;
+    left: 6vw;
+}
+
+.textoMenu3{
+    position: absolute;
+    font-size: 1vw;
+    top: 16.4vw;
+    left: 6vw;
+}
+
+.textoMenu4{
+    position: absolute;
+    font-size: 1vw;
+    top: 19.9vw;
+    left: 6vw;
+}
+
+.textoMenu5{
+    position: absolute;
+    font-size: 1vw;
+    top: 26.9vw;
+    left: 6vw;
+}
+
+.creditos{
+    position: absolute;
+    top: 35vw;
+    left: 3.8vw;
+}
+
+.seccionDerecha{
+    position: absolute;
+    top: 4vw;
+    left: 22.5vw;
+    width: 70vw;
+    height: 40vw;
+    border: 1px solid black;
+    border-radius: 2vw;
+    background-color: wheat;
+  
+
+}
+
+h1{
+    position: absolute;
+    left: 3vw;
+}
+
+.todos{
+    position: absolute;
+    font-size: 2vw;
+}
+
+.mensaje{
+    position: absolute;
+    font-size: 1.2vw;
+    left: 3vw;
+    top: 4vw;
+}

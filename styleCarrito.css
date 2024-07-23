@@ -1,0 +1,350 @@
+.contenedor{
+    width: 100vw;
+    height: 48.5vw;
+    background-color: rgb(66, 59, 59);
+}
+
+.seccionIzquierda{
+    position: absolute;
+    width: 20vw;
+    height: 48.5vw;
+    background-color: wheat;
+    border: 1px solid black;
+}
+
+
+.campusShop{
+    position: absolute;
+    top: 1.5vw;
+    font-size: 2vw;
+
+}
+
+.todos{
+    position: absolute;
+    font-size: 2vw;
+}
+
+.estrella1{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 10vw;
+    left: 3.5vw;
+}
+
+.estrella2{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 13.5vw;
+    left: 3.5vw;
+}
+
+.estrella3{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 17vw;
+    left: 3.5vw;
+}
+
+.estrella4{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 20.5vw;
+    left: 3.5vw;
+}
+
+.estrella5{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 27.5vw;
+    left: 3.5vw;
+}
+
+.textoMenu1{
+    position: absolute;
+    font-size: 1vw;
+    top: 9.4vw;
+    left: 6vw;
+}
+
+.textoMenu2{
+    position: absolute;
+    font-size: 1vw;
+    top: 12.9vw;
+    left: 6vw;
+}
+
+.textoMenu3{
+    position: absolute;
+    font-size: 1vw;
+    top: 16.4vw;
+    left: 6vw;
+}
+
+.textoMenu4{
+    position: absolute;
+    font-size: 1vw;
+    top: 19.9vw;
+    left: 6vw;
+}
+
+.textoMenu5{
+    position: absolute;
+    font-size: 1vw;
+    top: 26.9vw;
+    left: 6vw;
+}
+
+.creditos{
+    position: absolute;
+    top: 35vw;
+    left: 3.8vw;
+}
+
+.seccionDerecha{
+    position: absolute;
+    top: 4vw;
+    left: 22.5vw;
+    width: 70vw;
+    height: 40vw;
+    border: 1px solid black;
+    border-radius: 2vw;
+    background-color: wheat;
+  
+
+}
+
+h1{
+    position: absolute;
+    left: 3vw;
+}
+
+.todos{
+    position: absolute;
+    font-size: 2vw;
+}
+
+.rectangulo1{
+    position: absolute;
+    background-color: white;
+    width: 60vw;
+    height: 8vw;
+    top: 5vw;
+    left: 3vw;
+    border-radius: 2vw;
+    border: 1px solid black; 
+    
+}
+
+.rectangulo2{
+    position: absolute;
+    background-color: white;
+    width: 60vw;
+    height: 8vw;
+    top: 15vw;
+    left: 3vw;
+    border-radius: 2vw;
+    border: 1px solid black;
+}
+
+.rectangulo3{
+    position: absolute;
+    background-color: white;
+    width: 60vw;
+    height: 8vw;
+    top: 25vw;
+    left: 3vw;
+    border-radius: 2vw;
+    border: 1px solid black;
+}
+
+.rectanguloPequeño{
+    position: absolute;
+    width: 15vw;
+    height: 4vw;
+    background-color: white;
+    top: 34.5vw;
+    left: 48vw;
+    border-radius: 1vw;
+    border: 1px solid black;
+    background-color: rgb(192, 174, 174);
+}
+
+.vacio{
+    position: absolute;
+    width: 9vw;
+    height: 2vw;
+    background-color: white;
+    top: 34.5vw;
+    left: 3vw;
+    border-radius: 1vw;
+    border: 1px solid black;
+    background-color: rgb(192, 174, 174);
+}
+
+.compra{
+    position: absolute;
+    width: 8vw;
+    height: 1.3vw;
+    top: 1.3vw;
+    left: 6vw;
+    border-radius: 1vw;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.vaciarCarrito{
+    position: absolute;
+    font-size: 1.4vw;
+    top: -1.1vw;
+    left: 0.6vw;
+    
+}
+
+.compraAhora{
+    position: absolute;
+    font-size: 1.2vw;
+    top: -1.2vw;
+    left: 0.3vw;
+}
+
+.total{
+    position: absolute;
+    font-size: 1.3vw;
+    left: 1vw;
+    top: -0.6vw;
+}
+
+.primeraFoto1{
+    position: absolute;
+    width: 3.2vw;
+    left: 2vw;
+    top: 1vw;
+}
+
+.primeraFoto2{
+    position: absolute;
+    width: 4vw;
+    left: 2vw;
+    top: 1.3vw;
+}
+
+.primeraFoto3{
+    position: absolute;
+    width: 4vw;
+    left: 2vw;
+    top: 1.5vw;
+}
+
+.textoFoto1{
+    position: absolute;
+    font-size: 1vw;
+    top: 1.5vw;
+    left: 6vw;
+}
+
+.textoFoto2{
+    position: absolute;
+    font-size: 1vw;
+    top: 1.5vw;
+    left: 6vw;
+}
+
+.textoFoto3{
+    position: absolute;
+    font-size: 1vw;
+    top: 1.5vw;
+    left: 6vw;
+}
+
+.cantidad1{
+    position: absolute;
+    font-size: 1vw;
+    left: 25vw;
+    top: 1.6vw;
+}
+
+.cantidad2{
+    position: absolute;
+    font-size: 1vw;
+    left: 25vw;
+    top: 1.6vw;
+}
+
+.cantidad3{
+    position: absolute;
+    font-size: 1vw;
+    left: 25vw;
+    top: 1.6vw;
+}
+
+.cant1{
+    position: absolute;
+    width: 4vw;
+    height: 1.2vw;
+    background-color: white;
+    border: 1px solid black;
+    left:  24.8vw;
+    top: 4vw;
+    border-radius: 0.3vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.cant2{
+    position: absolute;
+    width: 4vw;
+    height: 1.2vw;
+    background-color: white;
+    border: 1px solid black;
+    left:  24.8vw;
+    top: 4vw;
+    border-radius: 0.3vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.cant3{
+    position: absolute;
+    width: 4vw;
+    height: 1.2vw;
+    background-color: white;
+    border: 1px solid black;
+    left:  24.8vw;
+    top: 4vw;
+    border-radius: 0.3vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.price1{
+    position: absolute;
+    font-size: 1vw;
+    left: 35vw;
+    top: 1.8vw;
+}
+
+.subtotal{
+    position: absolute;
+    font-size: 1vw;
+    left: 43vw;
+    top: 1.8vw;
+}
+
+.basura{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 2.8vw;
+    left: 52vw;
+}
+
+.cuanto{
+    position: absolute;
+    font-size: 1vw;
+    top: -0.9vw;
+    left: 0.2vw;
+}
+

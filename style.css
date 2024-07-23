@@ -1,0 +1,616 @@
+.contenedor{
+    width: 100vw;
+    height: 48.5vw;
+    background-color: rgb(66, 59, 59);
+}
+
+.seccionIzquierda{
+    position: absolute;
+    width: 20vw;
+    height: 48.5vw;
+    background-color: wheat;
+    border: 1px solid black;
+}
+
+
+.campusShop{
+    position: absolute;
+    top: 1.5vw;
+    font-size: 2vw;
+
+}
+
+.todos{
+    position: absolute;
+    font-size: 2vw;
+}
+
+.estrella1{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 10vw;
+    left: 3.5vw;
+}
+
+.estrella2{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 13.5vw;
+    left: 3.5vw;
+}
+
+.estrella3{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 17vw;
+    left: 3.5vw;
+}
+
+.estrella4{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 20.5vw;
+    left: 3.5vw;
+}
+
+.estrella5{
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    top: 27.5vw;
+    left: 3.5vw;
+}
+
+.textoMenu1{
+    position: absolute;
+    font-size: 1vw;
+    top: 9.4vw;
+    left: 6vw;
+}
+
+.textoMenu2{
+    position: absolute;
+    font-size: 1vw;
+    top: 12.9vw;
+    left: 6vw;
+}
+
+.textoMenu3{
+    position: absolute;
+    font-size: 1vw;
+    top: 16.4vw;
+    left: 6vw;
+}
+
+.textoMenu4{
+    position: absolute;
+    font-size: 1vw;
+    top: 19.9vw;
+    left: 6vw;
+}
+
+.textoMenu5{
+    position: absolute;
+    font-size: 1vw;
+    top: 26.9vw;
+    left: 6vw;
+}
+
+.creditos{
+    position: absolute;
+    top: 35vw;
+    left: 3.8vw;
+}
+
+.abrigo01{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.8vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+.abrigo02{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.9vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+.camiseta01{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.9vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+.camiseta02{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.9vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+.pantalon01{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.9vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+.pantalon02{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.9vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+.pantalon03{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.9vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+.pantalon04{
+    position: absolute;
+    top: 1.5vw;
+    left: 1.9vw;
+    width: 8vw;
+    height: 9vw;
+}
+
+
+
+
+
+
+
+
+/* sección de productos */
+.seccionDerecha{
+    position: absolute;
+    top: 4vw;
+    left: 22.5vw;
+    width: 70vw;
+    height: 40vw;
+    border: 1px solid black;
+    border-radius: 2vw;
+    background-color: wheat;
+  
+
+}
+
+h1{
+    position: absolute;
+    left: 3vw;
+}
+
+.cuadro1{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    top: 7vw;
+    border: 1px solid black;
+    left: 3vw;
+    border-radius: 1.2vw;
+    background-color: white;
+
+    
+}
+
+.cuadro2{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    top: 7vw;
+    border: 1px solid black;
+    left: 21vw;
+    border-radius: 1.2vw;
+    background-color: white;
+  
+}
+
+.cuadro3{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    top: 7vw;
+    border: 1px solid black;
+    left: 38vw;
+    border-radius: 1.2vw;
+    background-color: white;
+ 
+}
+
+.cuadro4{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    top: 7vw;
+    border: 1px solid black;
+    left: 55vw;
+    border-radius: 1.2vw;
+    background-color: white;
+  
+}
+
+.cuadro5{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    border: 1px solid black;
+    top: 23vw;
+    left: 3vw;
+    border-radius: 1.2vw;
+    background-color: white;
+    
+}
+
+.cuadro6{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    border: 1px solid black;
+    left: 21vw;
+    top: 23vw;
+    border-radius: 1.2vw;
+    background-color: white;
+  
+}
+
+.cuadro7{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    border: 1px solid black;
+    left: 38vw;
+    top: 23vw;
+    border-radius: 1.2vw;
+    background-color: white;
+}
+
+.cuadro8{
+    position: absolute;
+    width: 12vw;
+    height: 14vw;
+    border: 1px solid black;
+    left: 55vw;
+    top: 23vw;
+    border-radius: 1.2vw;
+    background-color: white;
+ 
+}
+
+.detalle1{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.detalle2{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.detalle3{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.detalle4{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.detalle5{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.detalle6{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.detalle7{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.detalle8{
+    position: absolute;
+    width: 12vw;
+    height: 3.5vw;
+    border-radius: 1.2vw;
+    border: 1px solid black;
+    top: 10.5vw;
+    background-color: rgb(192, 174, 174);
+}
+
+.texto1{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.texto2{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.texto3{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.texto4{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.texto5{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.texto6{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.texto7{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.texto8{
+    position: absolute; 
+    font-size: 0.75vw;
+    top: -0.4vw;
+    left: 1vw;
+}
+
+.precio1{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.precio2{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.precio3{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.precio4{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.precio5{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.precio6{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.precio7{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.precio8{
+    position: absolute;
+    font-size: 0.68vw;
+    top: 1.6vw;
+    left: 1.11vw;
+}
+
+.boton1{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton2{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton3{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton4{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton5{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton6{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton7{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton8{
+    position: absolute;
+    left: 7.7vw;
+    top: 1.5vw;
+    border-radius: 1vw;
+    width: 3.5vw;
+    height: 1.2vw;
+    
+}
+
+.boton1 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+
+.boton2 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+.boton3 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+.boton4 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+.boton5 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+.boton6 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+.boton7 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+.boton8 p{
+    position: absolute;
+    font-size: 0.8vw;
+    top: -0.8vw;
+}
+
+
