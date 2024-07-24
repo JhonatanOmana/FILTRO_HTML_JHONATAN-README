@@ -43,18 +43,21 @@
 
 .estrella3{
     position: absolute;
-    width: 2vw;
+    width: 2.7vw;
     height: 2vw;
     top: 17vw;
-    left: 3.5vw;
+    left: 3.2vw;
+}
+a{
+    color: black;
 }
 
 .estrella4{
     position: absolute;
-    width: 2vw;
+    width: 2.9vw;
     height: 2vw;
     top: 20.5vw;
-    left: 3.5vw;
+    left: 3.2vw;
 }
 
 .estrella5{
@@ -341,10 +344,123 @@ h1{
     left: 52vw;
 }
 
+#delete1:checked ~.rectangulo1 {
+    display: none;
+}
+
+#delete2:checked ~.rectangulo2 {
+    display: none;
+}
+
+#delete3:checked ~.rectangulo3 {
+    display: none;
+}
+
+#delete1{
+    display: none;
+}
+
+#delete2{
+    display: none;
+}
+
+#delete3{
+    display: none;
+}
+
+
 .cuanto{
     position: absolute;
     font-size: 1vw;
     top: -0.9vw;
     left: 0.2vw;
+}
+
+.textoMenu1:hover{
+    font-size: 1.3vw;
+    top: 9vw;
+    color: brown;
+}
+
+.textoMenu2:hover{
+    font-size: 1.3vw;
+    top: 12.5vw;
+    color: brown;
+}
+
+.textoMenu3:hover{
+    font-size: 1.3vw;
+    top: 15.9vw;
+    color: brown;
+}
+
+.textoMenu4:hover{
+    font-size: 1.3vw;
+    top: 19.4vw;
+    color: brown;
+}
+
+.textoMenu5:hover{
+    font-size: 1.3vw;
+    top: 26.5vw;
+    color: brown;
+}
+
+.basura:hover{
+    position: absolute;
+    width: 3vw;
+    height: 3vw;
+    top: 2.2vw;
+    left: 51.5vw;
+
+}
+
+.vaciarCarrito:hover{
+    position: absolute;
+    font-size: 1.5vw;
+    top: -1.3vw;
+    left: 0.5vw;
+    color: brown;
+    
+}
+
+.vacio:hover{
+    position: absolute;
+    width: 9.5vw;
+    height: 2.5vw;
+    top: 34.5vw;
+    left: 3vw;
+    border-radius: 2vw;
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+
+.cant1:hover{
+    background-color: bisque;   
+}
+.cant2:hover{
+    background-color: bisque;   
+}
+.cant3:hover{
+    background-color: bisque;   
+}
+.creditos{
+    position: absolute;
+    top: 35vw;
+    left: 3.8vw;
+    font-size: 1.2vw;
+}
+
+
+.compra:hover{
+    position: absolute;
+    width: 8.5vw;
+    height: 1.6vw;
+    top: 1.15vw;
+    left: 6vw;
+    border-radius: 1vw;
+    border: 1px solid black;
+    background-color: bisque;
+    
 }
 

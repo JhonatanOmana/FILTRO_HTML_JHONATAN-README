@@ -43,18 +43,21 @@
 
 .estrella3{
     position: absolute;
-    width: 2vw;
+    width: 2.7vw;
     height: 2vw;
     top: 17vw;
-    left: 3.5vw;
+    left: 3.2vw;
 }
 
 .estrella4{
     position: absolute;
-    width: 2vw;
+    width: 2.9vw;
     height: 2vw;
     top: 20.5vw;
-    left: 3.5vw;
+    left: 3.2vw;
+}
+a{
+    color: black;
 }
 
 .estrella5{
@@ -612,6 +615,42 @@ h1{
     position: absolute;
     font-size: 0.8vw;
     top: -0.8vw;
+}
+.creditos{
+    position: absolute;
+    top: 35vw;
+    left: 3.8vw;
+    font-size: 1.2vw;
+}
+
+.textoMenu1:hover{
+    font-size: 1.3vw;
+    top: 9vw;
+    color: brown;
+}
+
+.textoMenu2:hover{
+    font-size: 1.3vw;
+    top: 12.5vw;
+    color: brown;
+}
+
+.textoMenu3:hover{
+    font-size: 1.3vw;
+    top: 15.9vw;
+    color: brown;
+}
+
+.textoMenu4:hover{
+    font-size: 1.3vw;
+    top: 19.4vw;
+    color: brown;
+}
+
+.textoMenu5:hover{
+    font-size: 1.3vw;
+    top: 26.5vw;
+    color: brown;
 }
 
 
